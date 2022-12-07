@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,CCTV5体育频道
+http://sdwd.chinashadt.com:1935/live/cctv5.stream/playlist.m3u8
+
+#EXTINF:-1,CCTV5体育频道
+http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
